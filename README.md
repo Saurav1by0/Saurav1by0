@@ -1,5 +1,8 @@
 <img src="https://media-exp3.licdn.com/dms/image/C5603AQGgGR_BmvVKtQ/profile-displayphoto-shrink_800_800/0/1622363825364?e=1632355200&v=beta&t=1KVXnchm6jeofnm3FLrZh1EqmB53cD3tT82-uiSI5TM" width="100px">
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sauravgaur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sauravgaur?trk=profile-badge">Saurav Gaur</a></div>
               
 - 👋 Hi, I’m @Saurav1by0
