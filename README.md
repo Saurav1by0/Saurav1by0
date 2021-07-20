@@ -1,7 +1,7 @@
 <img src="https://media-exp3.licdn.com/dms/image/C5603AQGgGR_BmvVKtQ/profile-displayphoto-shrink_800_800/0/1622363825364?e=1632355200&v=beta&t=1KVXnchm6jeofnm3FLrZh1EqmB53cD3tT82-uiSI5TM" width="100px">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://img.shields.io/badge/<Angular>-<Front-end Development>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Angular>-<Front_end_Development>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
