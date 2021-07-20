@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://media-exp3.licdn.com/dms/image/C5603AQGgGR_BmvVKtQ/profile-displayphoto-shrink_800_800/0/1622363825364?e=1632355200&v=beta&t=1KVXnchm6jeofnm3FLrZh1EqmB53cD3tT82-uiSI5TM "Header")](https://www.linkedin.com/in/sauravgaur/)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sauravgaur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sauravgaur?trk=profile-badge">Saurav Gaur</a></div>
               
