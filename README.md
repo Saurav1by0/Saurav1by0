@@ -12,6 +12,6 @@
 Saurav1by0/Saurav1by0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" width="30px">
+<img src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px">
 
 .
