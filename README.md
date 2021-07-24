@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in software programming , web development with a focus on front end , angular development.
 
-- <img src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px">
+ <img src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px">
 
 - 🌱 I’m currently a freelance web dev and computer science undergrad.
 
