@@ -15,7 +15,7 @@
 
  <img src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px">
 
-- 🌱 I’m currently a freelance web dev and computer science undergrad.
+- 🌱 I’m currently a Web Developer and a Computer Science Undergrad.
 
 - 💞️ I’m looking to collaborate on anything which will encourage me to learn new concepts.
 
