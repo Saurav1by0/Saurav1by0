@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=200&section=header&text=Saurav%20Gaur&fontSize=70&fontColor=3b82f6&animation=fadeIn" width="100%" />
+<img src="[https://capsule-render.vercel.app](https://sauravgaur.com/assets/SauravGaur_Photo-CNfpbAEq.jpg)/render?type=soft&color=0f172a&height=200&section=header&text=Saurav%20Gaur&fontSize=70&fontColor=3b82f6&animation=fadeIn" width="100%" />
 
 <br/>
 
